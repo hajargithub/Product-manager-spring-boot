@@ -1,6 +1,6 @@
-# GestionProduit_Spring-Thymeleaf
+### Product-manager-spring-boot
 
-GestionProduit_Spring-Thymeleaf est une application web pour gérer des produits, développée avec **Java Spring Boot** et **Thymeleaf**. Ce projet permet d'ajouter, modifier, supprimer et lister des produits dans une interface web simple et intuitive.
+Product-manager-spring-boot est une application web pour gérer des produits, développée avec **Java Spring Boot** et **Thymeleaf**. Ce projet permet d'ajouter, modifier, supprimer et lister des produits dans une interface web simple et intuitive.
 
 ---
 
@@ -30,8 +30,8 @@ Interface web responsive avec Thymeleaf
 ---
 
 ## 📁 Structure du projet
-
-GestionProduit_Spring-Thymeleaf/
+``````
+Product-manager-spring-boot/
 │
 ├─ src/main/java/com/example/gestionproduit/ # Code source Java
 │ ├─ controller/ # Contrôleurs Spring MVC
@@ -44,6 +44,8 @@ GestionProduit_Spring-Thymeleaf/
 │
 ├─ pom.xml # Gestion Maven
 └─ README.md # Ce fichier
+
+``````
 
 ---
 ## 🖼️ Captures d’écran
