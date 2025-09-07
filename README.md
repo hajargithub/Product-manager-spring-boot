@@ -76,5 +76,5 @@ Product-manager-spring-boot/
 1. **Cloner le dépôt :**
 
 ```bash
-clone https://github.com/hajargithub/Product-manager-spring-boot.git
+git clone https://github.com/hajargithub/Product-manager-spring-boot.git
 cd Product-manager-spring-boot
